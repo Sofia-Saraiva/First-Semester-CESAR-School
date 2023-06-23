@@ -1,0 +1,1 @@
+print(' oii tudo bem  '.strip())

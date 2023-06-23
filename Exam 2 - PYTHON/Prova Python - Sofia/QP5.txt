@@ -1,0 +1,7 @@
+1: vetor = []
+2: vetor.append(idade)
+3: soma = sum(vetor)
+4: if i > media:
+5: if i < 25:
+6: {quant_media}
+7: vetor.sort()

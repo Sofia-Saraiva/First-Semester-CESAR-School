@@ -1,0 +1,5 @@
+(1)Tarja da linha 6: nome_municipio
+(2)Tarja da linha 14: leia(mais_votado)
+(3)Tarja da linha 16: quantidade_eleitores
+(4)Tarja da linha 18: quantidade_eleitores > 150000
+(5)Tarja da linha 24: senao
